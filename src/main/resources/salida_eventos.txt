@@ -1,0 +1,8 @@
+Primer festival,2025-05-30T18:00,Madrid,primer festival
+Segundo festival,2025-05-30T18:00,Barcelona,segundo festival
+Tercer festival,2025-05-30T18:00,Valladolid,tercer festival
+Cuarto festival,2025-05-30T18:00,Segovia,cuarto festival
+Primer festival,2025-04-21T21:00,Segovia,Primer festival
+Segundo festival,2025-06-14T21:00,Valladolid,Segundo festival
+Tercer festival,2025-12-29T20:30,Barcelona,Tercer festival
+Cuarto festival,2025-12-29T20:30,Madrid,Cuarto festival
